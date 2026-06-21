@@ -1,2 +1,14 @@
 # pokermaxhub-archive
-HTML page archive and documentation
+
+自动页面托管记录
+
+这里用于保留自动生成页面的文件记录和基本仓库信息。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 查看方式
+
+可以通过仓库文件列表或 GitHub Pages 查看已发布页面。
